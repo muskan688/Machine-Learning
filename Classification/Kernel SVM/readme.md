@@ -6,18 +6,18 @@ This repository contains a Kernel Support Vector Machine (SVM) Classification mo
 
 Project Workflow
 
-Data Preprocessing: 
-- Load the dataset using Pandas.
-- Split data into training and test sets.
-- Apply feature scaling using StandardScaler to normalize the values.
-Model Training:
-- Train a Kernel SVM Classifier using the Radial Basis Function (RBF) kernel.
-- Fit the model to the training dataset.
-Predictions & Evaluation:
-- Make predictions on the test dataset.
-- Evaluate model performance using a Confusion Matrix and Accuracy Score.
+- Data Preprocessing: 
+  - Load the dataset using Pandas.
+  - Split data into training and test sets.
+  - Apply feature scaling using StandardScaler to normalize the values.
+- Model Training:
+  - Train a Kernel SVM Classifier using the Radial Basis Function (RBF) kernel.
+  - Fit the model to the training dataset.
+- Predictions & Evaluation:
+  - Make predictions on the test dataset.
+  - Evaluate model performance using a Confusion Matrix and Accuracy Score.
 - Visualization:
-Plot decision boundaries for both training and test sets using matplotlib.
+  - Plot decision boundaries for both training and test sets using matplotlib.
 
 ### Dataset
 
