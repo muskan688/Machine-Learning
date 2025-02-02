@@ -1,29 +1,34 @@
-## Decision Tree Classification - Machine Learning Project
+## Machine Learning Models
 
 Overview
 
-This repository contains a Decision Tree Classification model implemented in Python using Scikit-Learn. The model is trained on a dataset (Social_Network_Ads.csv) to predict whether a user will purchase a product based on Age and Estimated Salary.
+This repository contains implementations of various **Classification, Regression, Clustering** algorithms in Python using Scikit-Learn. These models are trained on the different datasets to predict different things.
 
-Project Workflow
+-- The Classification methods included in this repository are:
 
-- Data Preprocessing:
-- Load the dataset using Pandas.
-- Split data into training and test sets.
-- Apply feature scaling using StandardScaler to normalize the values.
-- Model Training:
-   - Train a Decision Tree Classifier with entropy as the splitting criterion.
-   - Fit the model to the training dataset.
-- Predictions & Evaluation:
-  - Make predictions on the test dataset.
-  - Evaluate model performance using a Confusion Matrix and Accuracy Score.
-- Visualization:
-  - Plot decision boundaries for both training and test sets using matplotlib.
-  - Visualize the Decision Tree structure using export_graphviz.
+✅ Logistic Regression
+✅ K-Nearest Neighbors (KNN)
+✅ Support Vector Machine (SVM)
+✅ Kernel SVM
+✅ Naïve Bayes
+✅ Decision Tree
+✅ Random Forest
 
-### Dataset
+-- The Regression methods included in this repository are:
 
-The dataset contains:
+✅ Decision Tree Regression
+✅ Multiple Linear Regression
+✅ Polynomial Regression
+✅ Random Forest Regression
+✅ Simple Linear Regression
+✅ Support Vector Regression
 
-- Age (Independent Variable)
-- Estimated Salary (Independent Variable)
-- Purchased (Target Variable: 1 if purchased, 0 otherwise)
+
+-- The Clustering methods included in this repository are:
+
+✅ Hierarchical Clustering
+✅ K-meand Clusteing
+✅ Combine Clustering Jupyter ntebook
+
+
+Each algorithm is implemented in a separate Jupyter Notebook inside the classification folder, with detailed explanations and visualizations.
