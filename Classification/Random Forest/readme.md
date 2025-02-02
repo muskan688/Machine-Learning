@@ -1,4 +1,4 @@
-Random Forest Classification - Machine Learning Project
+## Random Forest Classification - Machine Learning Project
 Overview
 
 This repository contains a Random Forest Classification model implemented in Python using Scikit-Learn. The model is trained on a dataset (Social_Network_Ads.csv) to predict whether a user will purchase a product based on Age and Estimated Salary.
