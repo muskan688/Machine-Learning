@@ -25,3 +25,4 @@ The dataset contains:
 
 - Age (Independent Variable)
 - Estimated Salary (Independent Variable)
+- Purchased (Target Variable: 1 if purchased, 0 otherwise)
