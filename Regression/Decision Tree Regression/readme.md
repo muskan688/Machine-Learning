@@ -1,7 +1,7 @@
 ## Decision Tree Regressor
 
 Overview
-This project implements Decision Tree Regression, which splits the data into decision-based branches instead of fitting a straight line.
+This file implements Decision Tree Regression, which splits the data into decision-based branches instead of fitting a straight line.
 
 Features
 - Handles non-linear relationships.
