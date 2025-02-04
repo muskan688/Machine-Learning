@@ -8,6 +8,7 @@ Included Models
 - Multiple Linear Regression – Multiple independent variables.
 - Decision Tree Regression – Uses tree-based decision rules.
 - Random Forest Regression – Ensemble of multiple trees for better predictions.
+- Polynomial Regression - Extension of Linear Regression.
 - Support Vector Regression (SVR) – Uses hyperplanes for regression.
 
 Tech Stack
