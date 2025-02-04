@@ -1,7 +1,7 @@
 ## Multiple Linear Regression
 
 Overview
-This project extends Linear Regression to multiple independent variables.
+This file extends Linear Regression to multiple independent variables.
 
 Features
 - Uses multiple predictors to estimate an output.
